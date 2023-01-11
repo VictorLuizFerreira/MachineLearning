@@ -1,6 +1,6 @@
 # Machine-Learning
 
-## This is a postgraduate Machine Learning projects using Python and libraries with Jupyter Notebook.
+## This is a postgraduate Machine Learning projects using Python and his libraries.
 
 ### Used Technologies
 
