@@ -17,6 +17,10 @@
 
 # How to reach me
 
-[![GitHub](https://avatars.githubusercontent.com/u/61093338?v=4)](https://github.com/VictorLuizFerreira)
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-luiz-ferreira-501637195/)](https://www.linkedin.com/in/victor-luiz-ferreira-501637195/)
+
+<a href="https://github.com/VictorLuizFerreira">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/61093338?v=4" width="100px;" alt="Victor Luiz Ferreira"/>
+ <br />
+ <sub><b>Victor Luiz Ferreira</b></sub></a> <a href="https://github.com/VictorLuizFerreira" title="github"></a>
+ <br />
